@@ -1,0 +1,48 @@
+In this topic, I will help you remove the Windows activation text and activate it.😊
+how to do it?
+
+First, we create a new text document on the desktop. Then, paste the codes I'll provide into this text document.
+
+Codes:
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms8.msguides.com
+slmgr /ato
+slmgr /xpr    
+
+----------------------------------------
+-
+-   I'll leave it in the notes folder so you can find your own key.
+-
+-   The keys listed below are free "timed activation" KMS keys obtained from the Microsoft blog post and moderator comments on the Microsoft forums.
+----------------------------------------
+
+
+However, there's an important point.
+
+In the code above, you need to find your compatible Windows key after the line
+"slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX"    in the code below. I'll give you these.
+
+
+To find out what version of Windows your computer is, go to "Windows search > This PC > Right click Properties" and find out.
+
+Now that we've learned what we've learned, we can continue. Next, we enter the compatible key after the /ipk in the first line.
+
+Then the process is complete. From the top left, we go to File > Save As.
+
+Important note: The file name isn't important, but the extension is. You need to create a bat file.
+
+Example:
+example.Now that we've learned what we've learned, we can continue. Next, we enter the compatible key after the /ipk in the first line.
+
+Then the process is complete. From the top left, we go to File > Save As.
+
+Important note: The file name isn't important, but the extension is. You need to create a bat file.
+
+Example:
+example.bat
+
+
+Our code is ready, our computer is ready. Now, just open the file we saved to your desktop. 
+
+Windows will be activated in 10-15 seconds. Don't forget to star and follow if this was helpful.😊😊
